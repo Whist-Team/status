@@ -8,5 +8,8 @@ sites:
 assignees:
   - Segelzwerg
 
+status-website:
+  baseUrl: /status
+  name: Whist Status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
