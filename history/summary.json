@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "25.57%",
     "uptimeDay": "66.76%",
-    "uptimeWeek": "36.79%",
+    "uptimeWeek": "36.80%",
     "uptimeMonth": "25.57%",
     "uptimeYear": "25.57%",
-    "time": 468,
-    "timeDay": 470,
-    "timeWeek": 457,
-    "timeMonth": 468,
-    "timeYear": 468,
+    "time": 480,
+    "timeDay": 502,
+    "timeWeek": 476,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2022-07-22": 479,
       "2022-07-21": 340,
@@ -31,5 +31,23 @@
       "2022-07-09": 992,
       "2022-07-08": 1022
     }
+  },
+  {
+    "name": "Whist-Browser",
+    "url": "https://whist-team.github.io/Whist-Browser/",
+    "icon": "https://favicons.githubusercontent.com/whist-team.github.io",
+    "slug": "whist-browser",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
+    "dailyMinutesDown": {}
   }
 ]
