@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/whist.haasen.eu.ico",
     "slug": "whist-server",
     "status": "down",
-    "uptime": "26.03%",
+    "uptime": "26.01%",
     "uptimeDay": "59.08%",
     "uptimeWeek": "8.44%",
     "uptimeMonth": "6.61%",
-    "uptimeYear": "26.03%",
+    "uptimeYear": "26.01%",
     "time": 366,
     "timeDay": 272,
     "timeWeek": 272,
     "timeMonth": 365,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-07-07": 404,
+      "2023-07-08": 110,
+      "2023-07-07": 590,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -294,8 +295,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1295,
       "2022-07-10": 377,
-      "2022-07-09": 992,
-      "2022-07-08": 1022
+      "2022-07-09": 992
     }
   },
   {
@@ -310,9 +310,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 61,
-    "timeWeek": 123,
-    "timeMonth": 108,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 111,
     "timeYear": 98,
     "dailyMinutesDown": {}
   }
