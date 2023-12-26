@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/whist.haasen.eu.ico",
     "slug": "whist-server",
     "status": "down",
-    "uptime": "17.94%",
+    "uptime": "17.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-25": 75,
+      "2023-12-26": 72,
+      "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -379,8 +380,7 @@
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
-      "2022-12-27": 1440,
-      "2022-12-26": 1440
+      "2022-12-27": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 43,
-    "timeWeek": 67,
-    "timeMonth": 77,
+    "timeDay": 56,
+    "timeWeek": 72,
+    "timeMonth": 78,
     "timeYear": 92,
     "dailyMinutesDown": {}
   }
