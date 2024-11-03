@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/whistserver-b2c2gmfah6c0evak.germanywestcentral-01.azurewebsites.net.ico",
     "slug": "whist-server",
     "status": "up",
-    "uptime": "11.63%",
+    "uptime": "11.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "38.53%",
-    "uptimeMonth": "6.96%",
-    "uptimeYear": "0.46%",
-    "time": 1680,
-    "timeDay": 553,
-    "timeWeek": 2493,
-    "timeMonth": 2493,
-    "timeYear": 2493,
+    "uptimeWeek": "52.89%",
+    "uptimeMonth": "10.26%",
+    "uptimeYear": "0.74%",
+    "time": 1542,
+    "timeDay": 436,
+    "timeWeek": 2151,
+    "timeMonth": 2151,
+    "timeYear": 2151,
     "dailyMinutesDown": {
       "2024-10-30": 536,
       "2024-10-29": 1440,
@@ -376,8 +376,7 @@
       "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
-      "2023-11-05": 1440,
-      "2023-11-04": 1440
+      "2023-11-05": 1440
     }
   },
   {
@@ -392,9 +391,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 94,
+    "timeDay": 70,
     "timeWeek": 98,
-    "timeMonth": 96,
+    "timeMonth": 92,
     "timeYear": 91,
     "dailyMinutesDown": {}
   }
